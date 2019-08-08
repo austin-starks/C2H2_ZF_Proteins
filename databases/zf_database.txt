@@ -1,0 +1,277 @@
+Gene Name	Gene ID	Protein ID	Disease	Chromosome	Allelic Position	Allele Change	Amino Acid Sub	DOI	Notes
+TRPS1	ENSG00000104447	ENSP00000379065.3	Trichorhinophalangeal dysplasia type I (least severe)	8	2560	C>T	p.Gln854Ter	DOI 10.1002/ajmg.a.32952	
+TRPS1	ENSG00000104447	ENSP00000379065.3	Trichorhinophalangeal dysplasia type III (most severe)	8	2686	T>A	p.Cys896Ser	DOI 10.1002/ajmg.a.32952	The missense mutation causes the more severe version of the disease
+TRPS1	ENSG00000104447	ENSP00000379065.3	Trichorhinophalangeal dysplasia type I (least severe)	8	976	C>A	p.Cys326Ter	DOI: 10.231/JIM.0b013e318250b74c	
+TRPS1	ENSG00000104447	ENSP00000379065.3	Trichorhinophalangeal dysplasia type I (least severe)	8	164	A>C	p.Asn55Thr	DOI: 10.231/JIM.0b013e318250b74c	
+TRPS1	ENSG00000104447	ENSP00000379065.3	Trichorhinophalangeal syndrome type I	8	2627	C>T	p.Ser876Phe	doi: 10.1002/ajmg.a.36430	
+PRDM9	ENSG00000164256	ENSP00000296682.3	Azoospermia	5	17353	G>T	p.Gly433Val	DOI: 10.2164/jandrol.108.006262	
+PRDM9	ENSG00000164256	ENSP00000296682.3	Azoospermia	5	18109	C>G	p.Thr685Arg	DOI: 10.2164/jandrol.108.006262	
+KLF1	ENSG00000105610	ENSP00000264834.3	_-thalassemia	19	895	C>G	p.His299Asp	DOI:Ê10.1182/blood-2014-03-561779	Nucleotide # based on: NM_006563; Protein # based on NP_006554
+KLF1	ENSG00000105610	ENSP00000264834.3	_-thalassemia	19	1022	G>A	p.Cys341Tyr	DOI:Ê10.1182/blood-2014-03-561779	Nucleotide # based on: NM_006563; Protein # based on NP_006554
+KLF1	ENSG00000105610	ENSP00000264834.3	_-thalassemia	19	13	G>A	p.Glu5Lys	DOI:Ê10.1182/blood-2014-03-561779	Nucleotide # based on: NM_006563; Protein # based on NP_006554
+KLF1	ENSG00000105610	ENSP00000264834.3	_-thalassemia	19	892	G>C	p.Ala298Pro	DOI:Ê10.1182/blood-2014-03-561779	Nucleotide # based on: NM_006563; Protein # based on NP_006554
+KLF1	ENSG00000105610	ENSP00000264834.3	_-thalassemia	19	1001	C>G	p.Thr334Arg	DOI:Ê10.1182/blood-2014-03-561779	Nucleotide # based on: NM_006563; Protein # based on NP_006554
+KLF1	ENSG00000105610	ENSP00000264834.3	_-thalassemia	19	809	C>G	p.Ser270Trp	DOI:Ê10.1182/blood-2014-03-561779	Nucleotide # based on: NM_006563; Protein # based on NP_006554
+KLF1	ENSG00000105610	ENSP00000264834.3	_-thalassemia	19	41	T>C	p.Leu14Pro	DOI:Ê10.1182/blood-2014-03-561779	Nucleotide # based on: NM_006563; Protein # based on NP_006554
+KLF1	ENSG00000105610	ENSP00000264834.3	Heriditary perisistence of increased hemoglobin (non-deleterious)	19	901	C>T	p.Arg301Cys	Doi:10.3324/haematol.2011.055442	Phenotype change can ameliorate the effect of other blood disorders
+KLF1	ENSG00000105610	ENSP00000264834.3	Heriditary perisistence of increased hemoglobin (non-deleterious)	19	902	G>A	p.Arg301His	Doi:10.3324/haematol.2011.055442	Phenotype change can ameliorate the effect of other blood disorders
+KLF1	ENSG00000105610	ENSP00000264834.3	Heriditary perisistence of increased hemoglobin (non-deleterious)	19	939	G>T	p.Trp313Cys	Doi:10.3324/haematol.2011.055442	Phenotype change can ameliorate the effect of other blood disorders
+KLF1	ENSG00000105610	ENSP00000264834.3	Heriditary perisistence of increased hemoglobin (non-deleterious)	19	983	G>A	p.Arg328His	Doi:10.3324/haematol.2011.055442	Phenotype change can ameliorate the effect of other blood disorders
+KLF1	ENSG00000105610	ENSP00000264834.3	Heriditary perisistence of increased hemoglobin (non-deleterious)	19	983	G>T	p.Arg328Leu	Doi:10.3324/haematol.2011.055442	Phenotype change can ameliorate the effect of other blood disorders
+KLF1	ENSG00000105610	ENSP00000264834.3	Heriditary perisistence of increased hemoglobin (non-deleterious)	19	1001	C>A	p.Thr334Lys	Doi:10.3324/haematol.2011.055442	Phenotype change can ameliorate the effect of other blood disorders
+KLF1	ENSG00000105610	ENSP00000264834.3	Heriditary perisistence of increased hemoglobin (non-deleterious)	19	1001	C>G	p.Thr334Arg	Doi:10.3324/haematol.2011.055442	Phenotype change can ameliorate the effect of other blood disorders
+POGZ	ENSG00000143442	ENSP00000271715.2	Autism Spectrum Disorder	1	3118	G>A	p.Glu1040Lys	DOI: 10.1038/jhg.2015.13	Nucleotide # based on: NM_015100.3
+POGZ	ENSG00000143442	ENSP00000271715.2	Autism Spectrum Disorder	1	1790	A>G	p.Tyr597Cys	DOI: 10.1038/jhg.2015.13	Nucleotide # based on: NM_015100.3
+ZBTB24	ENSG00000112365	ENSP00000230122.3	Type II ICF Syndrome	6	1148	G>A	p.Cys383Tyr	DOI:10.1038/jhg.2013.56	
+ZBTB24	ENSG00000112365	ENSP00000230122.3	Type II ICF Syndrome	6	958	C>T	p.Arg320Ter	DOI:10.1038/jhg.2013.56	
+ZBTB24	ENSG00000112365	ENSP00000230122.3	Type II ICF Syndrome	6	759	C>G	p.Thr253Ter	DOI:10.1038/jhg.2013.56	
+MECOM	ENSG00000085276	ENSP00000417899.1	hereditary hematological malignancies	3	2860	T>G	p.Cys954Gly	doi:10.3324/haematol.2017.178723	Nucleotide # based on: NM_004991.3
+MECOM	ENSG00000085276	ENSP00000417899.1	Radioulnar synstosis with amegakaryocytic thrombocytopenia	3	2266	A>G	p.Thr756Ala	https://doi.org/10.1016/j.ajhg.2015.10.010	Nucleotide # based on: NM_001105078; Protein # based on NP_001098548
+MECOM	ENSG00000085276	ENSP00000417899.1	Radioulnar synstosis with amegakaryocytic thrombocytopenia	3	2252	A>G	p.His751Arg	https://doi.org/10.1016/j.ajhg.2015.10.010	Nucleotide # based on: NM_001105078; Protein # based on NP_001098548
+MECOM	ENSG00000085276	ENSP00000417899.1	Radioulnar synstosis with amegakaryocytic thrombocytopenia	3	2248	C>T	p.Arg750Trp	https://doi.org/10.1016/j.ajhg.2015.10.010	Nucleotide # based on: NM_001105078; Protein # based on NP_001098548
+MECOM	ENSG00000085276	ENSP00000417899.1	Severe thrombocytopenia and bilateral proximal radioulnar synostosis	3	169100919	G>A	p.His751Tyr	https://doi.org/10.1182/bloodadvances.2018016501	Nucleotide # based on: GRCh38
+MECOM	ENSG00000085276	ENSP00000417899.1	Congenital amegakaryocytic thrombocytopenia	3	169100894	T>A	p.Gln759Leu	https://doi.org/10.1182/bloodadvances.2018016501	Nucleotide # based on: GRCh38
+MECOM	ENSG00000085276	ENSP00000417899.1	Severe pancytopenia and proximal radioulnar synostosis	3	169100892	G>A	p.Pro760Ser	https://doi.org/10.1182/bloodadvances.2018016501	Nucleotide # based on: GRCh38
+MECOM	ENSG00000085276	ENSP00000417899.1	"Mild thrombocytopenia, bilateral proximal radioulnar synostosis, pancytopenia, and BMF"	3	169095235	A>G	p.Cys766Arg	https://doi.org/10.1182/bloodadvances.2018016501	Nucleotide # based on: GRCh38
+MECOM	ENSG00000085276	ENSP00000417899.1	Severe pancytopenia	3	169093016	G>A	p.Arg848Ter	https://doi.org/10.1182/bloodadvances.2018016501	Nucleotide # based on: GRCh38
+MECOM	ENSG00000085276	ENSP00000417899.1	Severe pancytopenia	3	169128041	G>T	p.Cys23Ter	https://doi.org/10.1182/bloodadvances.2018016501	Nucleotide # based on: GRCh38
+MECOM	ENSG00000085276	ENSP00000417899.1	Severe pancytopenia	3	169116194	G>A	p.Gln372Ter	https://doi.org/10.1182/bloodadvances.2018016501	Nucleotide # based on: GRCh38
+IKZF1	ENSG00000185811	ENSP00000496453.1	Predisposition to Childhood Acute Lymphoblastic Leukemia	7	50367245	C>A	p.Pro18Thr	https://doi.org/10.1016/j.ccell.2018.03.021	Nucleotide # based on: hg19/chr7
+IKZF1	ENSG00000185811	ENSP00000496453.1	Predisposition to Childhood Acute Lymphoblastic Leukemia	7	50367284	A>G	p.Met31Val	https://doi.org/10.1016/j.ccell.2018.03.021	Nucleotide # based on: hg19/chr7
+IKZF1	ENSG00000185811	ENSP00000496453.1	Predisposition to Childhood Acute Lymphoblastic Leukemia	7	50367347	G>C	p.Val52Leu	https://doi.org/10.1016/j.ccell.2018.03.021	Nucleotide # based on: hg19/chr7
+IKZF1	ENSG00000185811	ENSP00000496453.1	Predisposition to Childhood Acute Lymphoblastic Leukemia	7	50367350	G>A	p.Val53Met	https://doi.org/10.1016/j.ccell.2018.03.021	Nucleotide # based on: hg19/chr7
+IKZF1	ENSG00000185811	ENSP00000496453.1	Predisposition to Childhood Acute Lymphoblastic Leukemia	7	50444276	G>A	p.Arg69His	https://doi.org/10.1016/j.ccell.2018.03.021	Nucleotide # based on: hg19/chr7
+IKZF1	ENSG00000185811	ENSP00000496453.1	Predisposition to Childhood Acute Lymphoblastic Leukemia	7	50444311	G>A	p.Asp81Asn	https://doi.org/10.1016/j.ccell.2018.03.021	Nucleotide # based on: hg19/chr7
+IKZF1	ENSG00000185811	ENSP00000496453.1	Predisposition to Childhood Acute Lymphoblastic Leukemia	7	50444384	C>T	p.Ser105Leu	https://doi.org/10.1016/j.ccell.2018.03.021	Nucleotide # based on: hg19/chr7
+IKZF1	ENSG00000185811	ENSP00000496453.1	Predisposition to Childhood Acute Lymphoblastic Leukemia	7	50450301	G>C	p.Arg162Pro	https://doi.org/10.1016/j.ccell.2018.03.021	Nucleotide # based on: hg19/chr7
+IKZF1	ENSG00000185811	ENSP00000496453.1	Predisposition to Childhood Acute Lymphoblastic Leukemia	7	50450303	C>T	p.His163Tyr	https://doi.org/10.1016/j.ccell.2018.03.021	Nucleotide # based on: hg19/chr7
+IKZF1	ENSG00000185811	ENSP00000496453.1	Predisposition to Childhood Acute Lymphoblastic Leukemia	7	50459465	G>A	p.Asp252Asn 	https://doi.org/10.1016/j.ccell.2018.03.021	Nucleotide # based on: hg19/chr7
+IKZF1	ENSG00000185811	ENSP00000496453.1	Predisposition to Childhood Acute Lymphoblastic Leukemia	7	50459483	T>C	p.Ser258ProÊ	https://doi.org/10.1016/j.ccell.2018.03.021	Nucleotide # based on: hg19/chr7
+IKZF1	ENSG00000185811	ENSP00000496453.1	Predisposition to Childhood Acute Lymphoblastic Leukemia	7	50467680	GA>G	p.Met306Ter	https://doi.org/10.1016/j.ccell.2018.03.021	Nucleotide # based on: hg19/chr7
+IKZF1	ENSG00000185811	ENSP00000496453.1	Predisposition to Childhood Acute Lymphoblastic Leukemia	7	50467762	A>G	p.Thr333AlaÊ	https://doi.org/10.1016/j.ccell.2018.03.021	Nucleotide # based on: hg19/chr7
+IKZF1	ENSG00000185811	ENSP00000496453.1	Predisposition to Childhood Acute Lymphoblastic Leukemia	7	50467774	G>A	p.Gly337SerÊ	https://doi.org/10.1016/j.ccell.2018.03.021	Nucleotide # based on: hg19/chr7
+IKZF1	ENSG00000185811	ENSP00000496453.1	Predisposition to Childhood Acute Lymphoblastic Leukemia	7	50467804	A>G	p.Met347ValÊ	https://doi.org/10.1016/j.ccell.2018.03.021	Nucleotide # based on: hg19/chr7
+IKZF1	ENSG00000185811	ENSP00000496453.1	Predisposition to Childhood Acute Lymphoblastic Leukemia	7	50467808	A>G	p.Tyr348CysÊ	https://doi.org/10.1016/j.ccell.2018.03.021	Nucleotide # based on: hg19/chr7
+IKZF1	ENSG00000185811	ENSP00000496453.1	Predisposition to Childhood Acute Lymphoblastic Leukemia	7	50467859	C>T	p.Ala365ValÊ	https://doi.org/10.1016/j.ccell.2018.03.021	Nucleotide # based on: hg19/chr7
+IKZF1	ENSG00000185811	ENSP00000496453.1	Predisposition to Childhood Acute Lymphoblastic Leukemia	7	50467947	C>A	p.Cys394Ter	https://doi.org/10.1016/j.ccell.2018.03.021	Nucleotide # based on: hg19/chr7
+IKZF1	ENSG00000185811	ENSP00000496453.1	Predisposition to Childhood Acute Lymphoblastic Leukemia	7	50467996	C>T	p.Leu411PheÊ	https://doi.org/10.1016/j.ccell.2018.03.021	Nucleotide # based on: hg19/chr7
+IKZF1	ENSG00000185811	ENSP00000496453.1	Predisposition to Childhood Acute Lymphoblastic Leukemia	7	50468024	C>A	p.Pro420GlnÊ	https://doi.org/10.1016/j.ccell.2018.03.021	Nucleotide # based on: hg19/chr7
+IKZF1	ENSG00000185811	ENSP00000496453.1	Predisposition to Childhood Acute Lymphoblastic Leukemia	7	50468032	C>T	p.Arg423CysÊ	https://doi.org/10.1016/j.ccell.2018.03.021	Nucleotide # based on: hg19/chr7
+IKZF1	ENSG00000185811	ENSP00000496453.1	Predisposition to Childhood Acute Lymphoblastic Leukemia	7	50468061	C>G	p.His432GlnÊ	https://doi.org/10.1016/j.ccell.2018.03.021	Nucleotide # based on: hg19/chr7
+IKZF1	ENSG00000185811	ENSP00000496453.1	Predisposition to Childhood Acute Lymphoblastic Leukemia	7	50468066	C>G	p.Ala434GlyÊ	https://doi.org/10.1016/j.ccell.2018.03.021	Nucleotide # based on: hg19/chr7
+IKZF1	ENSG00000185811	ENSP00000496453.1	Predisposition to Childhood Acute Lymphoblastic Leukemia	7	50468110	C>T	p.Leu449Phe	https://doi.org/10.1016/j.ccell.2018.03.021	Nucleotide # based on: hg19/chr7
+IKZF1	ENSG00000185811	ENSP00000496453.1	Predisposition to Childhood Acute Lymphoblastic Leukemia	7	50468140	A>G	p.Met459ValÊ	https://doi.org/10.1016/j.ccell.2018.03.021	Nucleotide # based on: hg19/chr7
+IKZF1	ENSG00000185811	ENSP00000496453.1	Predisposition to Childhood Acute Lymphoblastic Leukemia	7	50468192	T>C	p.Met476ThrÊ	https://doi.org/10.1016/j.ccell.2018.03.021	Nucleotide # based on: hg19/chr7
+IKZF1	ENSG00000185811	ENSP00000496453.1	Predisposition to Childhood Acute Lymphoblastic Leukemia	7	50468318	T>A	p.Met518LysÊ	https://doi.org/10.1016/j.ccell.2018.03.021	Nucleotide # based on: hg19/chr7
+GLI1	ENSG00000111087	ENSP00000228682.2	Correlative of inflammatory bowel diseases	12	57472038	C>G	p.Gln1100Glu	https://doi.org/10.1371/journal.pmed.0050239	Nucleotide # based on: GRCh38
+GLI3	ENSG00000106571	ENSP00000379258.3	Greig cephalopolysyndactyly syndrome	7	427	G>T	p.Glu143Ter	https://doi.org/10.1038/ejhg.2014.62	
+GLI3	ENSG00000106571	ENSP00000379258.3	Greig cephalopolysyndactyly syndrome	7	444	C>A	p.Tyr148Ter	https://doi.org/10.1038/ejhg.2014.62	
+GLI3	ENSG00000106571	ENSP00000379258.3	Greig cephalopolysyndactyly syndrome	7	868	C>T	p.Arg290Ter	https://doi.org/10.1038/ejhg.2014.62	
+GLI3	ENSG00000106571	ENSP00000379258.3	Greig cephalopolysyndactyly syndrome	7	1498	C>T	p.His500Tyr	https://doi.org/10.1038/ejhg.2014.62	
+GLI3	ENSG00000106571	ENSP00000379258.3	Greig cephalopolysyndactyly syndrome	7	1733	G>C	p.Cys578Ser	https://doi.org/10.1038/ejhg.2014.62	
+GLI3	ENSG00000106571	ENSP00000379258.3	Greig cephalopolysyndactyly syndrome	7	1786	C>T	p.His596Tyr	https://doi.org/10.1038/ejhg.2014.62	
+GLI3	ENSG00000106571	ENSP00000379258.3	Greig cephalopolysyndactyly syndrome	7	1787	A>C	p.His596Pro	https://doi.org/10.1038/ejhg.2014.62	
+GLI3	ENSG00000106571	ENSP00000379258.3	Greig cephalopolysyndactyly syndrome	7	1874	G>A	p.Arg625Gln	https://doi.org/10.1038/ejhg.2014.62	
+GLI3	ENSG00000106571	ENSP00000379258.3	Greig cephalopolysyndactyly syndrome	7	3559	C>T	p.Gln1187Ter	https://doi.org/10.1038/ejhg.2014.62	
+GLI3	ENSG00000106571	ENSP00000379258.3	Greig cephalopolysyndactyly syndrome	7	4324	C>T	p.Gln1442Ter	https://doi.org/10.1038/ejhg.2014.62	
+GLI3	ENSG00000106571	ENSP00000379258.3	Greig cephalopolysyndactyly syndrome	7	4408	C>T	p.Gln1470Ter	https://doi.org/10.1038/ejhg.2014.62	
+GLI3	ENSG00000106571	ENSP00000379258.3	Greig cephalopolysyndactyly syndrome	7	4456	C>T	p.Gln1486Ter	https://doi.org/10.1038/ejhg.2014.62	
+GLI3	ENSG00000106571	ENSP00000379258.3	PallisterÐHall syndrome	7	2149	C>T	p.Gln717Ter	https://doi.org/10.1038/ejhg.2014.63	
+GLI3	ENSG00000106571	ENSP00000379258.3	PallisterÐHall syndrome	7	2647	G>T	p.Glu883Ter	https://doi.org/10.1038/ejhg.2014.64	
+GLI3	ENSG00000106571	ENSP00000379258.3	PallisterÐHall syndrome	7	2685	C>G	p.Tyr895Ter	https://doi.org/10.1038/ejhg.2014.65	
+GLI3	ENSG00000106571	ENSP00000379258.3	PallisterÐHall syndrome	7	3040	G>T	p.Glu1014Ter	https://doi.org/10.1038/ejhg.2014.66	
+GLI3	ENSG00000106571	ENSP00000379258.3	PallisterÐHall syndrome	7	3324	C>G	p.Tyr1108Ter	https://doi.org/10.1038/ejhg.2014.67	
+GLI3	ENSG00000106571	ENSP00000379258.3	Greig Cephalopolysyndactyly Syndrome	7	706	G>T	p.Glu236Ter	https://doi.org/10.1093/hmg/8.9.1769	
+GLI3	ENSG00000106571	ENSP00000379258.3	Greig Cephalopolysyndactyly Syndrome	7	1543	T>G	p.Cys515Gly	https://doi.org/10.1093/hmg/8.9.1769	
+GLI3	ENSG00000106571	ENSP00000379258.3	Greig Cephalopolysyndactyly Syndrome	7	1559	G>A	p.Cys520Tyr	https://doi.org/10.1093/hmg/8.9.1769	
+GLI3	ENSG00000106571	ENSP00000379258.3	Greig Cephalopolysyndactyly Syndrome	7	1627	G>T	p.Glu543Ter	https://doi.org/10.1093/hmg/8.9.1769	
+GLI3	ENSG00000106571	ENSP00000379258.3	Greig Cephalopolysyndactyly Syndrome	7	2374	C>T	p.Arg792Ter	https://doi.org/10.1093/hmg/8.9.1769	
+GLI3	ENSG00000106571	ENSP00000379258.3	PallisterÐHall syndrome	7	2062	G>T	p.Glu688Ter	https://doi.org/10.1086/429346	
+GLI3	ENSG00000106571	ENSP00000379258.3	PallisterÐHall syndrome	7	2110	C>T	p.Gln704Ter	https://doi.org/10.1086/429346	
+GLI3	ENSG00000106571	ENSP00000379258.3	PallisterÐHall syndrome	7	2146	C>T	p.Gln716Ter	https://doi.org/10.1086/429346	
+GLI3	ENSG00000106571	ENSP00000379258.3	PallisterÐHall syndrome	7	2149	C>T	p.Gln717Ter	https://doi.org/10.1086/429346	
+GLI3	ENSG00000106571	ENSP00000379258.3	PallisterÐHall syndrome	7	2799	C>G	p.Tyr933Ter	https://doi.org/10.1086/429346	
+GLI3	ENSG00000106571	ENSP00000379258.3	PallisterÐHall syndrome	7	3324	C>G	p.Tyr1108Ter	https://doi.org/10.1086/429346	
+GLI3	ENSG00000106571	ENSP00000379258.3	PallisterÐHall syndrome	7	3456	G>T	p.Glu1152Ter	https://doi.org/10.1086/429346	
+GLI3	ENSG00000106571	ENSP00000379258.3	Greig Cephalopolysyndactyly Syndrome	7	1789	C>T	p.Gln597Ter	https://doi.org/10.1086/429346	
+GLI3	ENSG00000106571	ENSP00000379258.3	Greig Cephalopolysyndactyly Syndrome	7	1446	C>G	p.Cys482Trp	https://doi.org/10.1086/429346	
+GLI3	ENSG00000106571	ENSP00000379258.3	Greig Cephalopolysyndactyly Syndrome	7	1873	C>T	p.Arg625Trp	https://doi.org/10.1086/429346	
+GLI3	ENSG00000106571	ENSP00000379258.3	sub-Greig Cephalopolysyndactyly Syndrome	7	2708	C>T	p.Ser903Leu	https://doi.org/10.1086/429347	
+GLI3	ENSG00000106571	ENSP00000379258.3	sub-Greig Cephalopolysyndactyly Syndrome	7	4240	C>T	p.Gln1414Ter	https://doi.org/10.1086/429348	
+GLI3	ENSG00000106571	ENSP00000379258.3	sub-PallisterÐHall syndrome	7	2437	C>T	p.Gln813Ter	https://doi.org/10.1086/429349	
+GLI3	ENSG00000106571	ENSP00000379258.3	oralÐfacialÐdigital syndromesÊ	7	2077	A>T	p.Lys693Ter	https://doi.org/10.1086/429350	
+GLI3	ENSG00000106571	ENSP00000379258.3	oralÐfacialÐdigital syndromesÊ	7	2977	C>T	p.Gln993Ter	https://doi.org/10.1086/429351	
+GLI3	ENSG00000106571	ENSP00000379258.3	oralÐfacialÐdigital syndromesÊ	7	3040	G>T	p.Glu1014Ter	https://doi.org/10.1086/429352	
+GLI3	ENSG00000106571	ENSP00000379258.3	Greig Cephalopolysyndactyly Syndrome	7	1096	C>T	p.Arg366Ter	https://doi.org/10.1086/429353	
+GLI3	ENSG00000106571	ENSP00000379258.3	Greig Cephalopolysyndactyly Syndrome	7	1728	C>A	p.Tyr576Ter	https://doi.org/10.1086/429354	
+GLI3	ENSG00000106571	ENSP00000379258.3	Greig Cephalopolysyndactyly Syndrome	7	1748	G>T	p.Cys583Phe	https://doi.org/10.1086/429355	
+GLI3	ENSG00000106571	ENSP00000379258.3	Greig Cephalopolysyndactyly Syndrome	7	4072	C>T	p.Gln1358Ter	https://doi.org/10.1086/429356	
+WT1	ENSG00000184937	ENSP00000413452.4	WT1-related steroid-resistant nephrotic syndrome	11	665	T>C	p.Phe222Ser	https://doi.org/10.1038/ki.2013.519	
+WT1	ENSG00000184937	ENSP00000413452.4	WT1-related steroid-resistant nephrotic syndrome	11	1017	C>A	p.Tyr339Ter	https://doi.org/10.1038/ki.2013.519	
+WT1	ENSG00000184937	ENSP00000413452.4	WT1-related steroid-resistant nephrotic syndrome	11	1063	A>T	p.Arg355Ter	https://doi.org/10.1038/ki.2013.519	
+WT1	ENSG00000184937	ENSP00000413452.4	WT1-related steroid-resistant nephrotic syndrome	11	1192	T>C	p.Cys396Arg	https://doi.org/10.1038/ki.2013.519	
+WT1	ENSG00000184937	ENSP00000413452.4	WT1-related steroid-resistant nephrotic syndrome	11	1264	T>C	p.Cys428Arg	https://doi.org/10.1038/ki.2013.519	
+WT1	ENSG00000184937	ENSP00000413452.4	WT1-related steroid-resistant nephrotic syndrome	11	1264	T>G	p.Cys428Gly	https://doi.org/10.1038/ki.2013.519	
+WT1	ENSG00000184937	ENSP00000413452.4	WT1-related steroid-resistant nephrotic syndrome	11	1288	C>T	p.Arg430Ter	https://doi.org/10.1038/ki.2013.519	
+WT1	ENSG00000184937	ENSP00000413452.4	WT1-related steroid-resistant nephrotic syndrome	11	1301	G>A	p.Arg434His	https://doi.org/10.1038/ki.2013.519	
+WT1	ENSG00000184937	ENSP00000413452.4	WT1-related steroid-resistant nephrotic syndrome	11	1301	G>C	p.Arg434Pro	https://doi.org/10.1038/ki.2013.519	
+WT1	ENSG00000184937	ENSP00000413452.4	WT1-related steroid-resistant nephrotic syndrome	11	1311	G>T	p.Gln437His	https://doi.org/10.1038/ki.2013.519	
+WT1	ENSG00000184937	ENSP00000413452.4	WT1-related steroid-resistant nephrotic syndrome	11	1334	A>T	p.His445Leu	https://doi.org/10.1038/ki.2013.519	
+WT1	ENSG00000184937	ENSP00000413452.4	WT1-related steroid-resistant nephrotic syndrome	11	1337	C>T	p.Thr446Ile	https://doi.org/10.1038/ki.2013.519	
+WT1	ENSG00000184937	ENSP00000413452.4	WT1-related steroid-resistant nephrotic syndrome	11	1337	C>G	p.Thr446Arg	https://doi.org/10.1038/ki.2013.519	
+WT1	ENSG00000184937	ENSP00000413452.4	WT1-related steroid-resistant nephrotic syndrome	11	1351	T>C	p.Phe451Leu	https://doi.org/10.1038/ki.2013.519	
+WT1	ENSG00000184937	ENSP00000413452.4	WT1-related steroid-resistant nephrotic syndrome	11	1358	G>A	p.Cys453Tyr	https://doi.org/10.1038/ki.2013.519	
+WT1	ENSG00000184937	ENSP00000413452.4	WT1-related steroid-resistant nephrotic syndrome	11	1369	C>T	p.Gln457Ter	https://doi.org/10.1038/ki.2013.519	
+WT1	ENSG00000184937	ENSP00000413452.4	WT1-related steroid-resistant nephrotic syndrome	11	1372	C>T	p.Arg458Ter	https://doi.org/10.1038/ki.2013.519	
+WT1	ENSG00000184937	ENSP00000413452.4	WT1-related steroid-resistant nephrotic syndrome	11	1380	C>G	p.Pro460Leu	https://doi.org/10.1038/ki.2013.519	
+WT1	ENSG00000184937	ENSP00000413452.4	WT1-related steroid-resistant nephrotic syndrome	11	1384	C>T	p.Arg462Trp	https://doi.org/10.1038/ki.2013.519	
+WT1	ENSG00000184937	ENSP00000413452.4	WT1-related steroid-resistant nephrotic syndrome	11	1392	C>A	p.Asp464Glu	https://doi.org/10.1038/ki.2013.519	
+WT1	ENSG00000184937	ENSP00000413452.4	WT1-related steroid-resistant nephrotic syndrome	11	1391	A>G	p.Asp464Gly	https://doi.org/10.1038/ki.2013.519	
+WT1	ENSG00000184937	ENSP00000413452.4	WT1-related steroid-resistant nephrotic syndrome	11	1390	G>C	p.Asp464His	https://doi.org/10.1038/ki.2013.519	
+WT1	ENSG00000184937	ENSP00000413452.4	WT1-related steroid-resistant nephrotic syndrome	11	1390	G>A	p.Asp464Asn	https://doi.org/10.1038/ki.2013.519	
+WT1	ENSG00000184937	ENSP00000413452.4	WT1-related steroid-resistant nephrotic syndrome	11	1394	A>C	p.His465Pro	https://doi.org/10.1038/ki.2013.519	
+WT1	ENSG00000184937	ENSP00000413452.4	WT1-related steroid-resistant nephrotic syndrome	11	1397	T>C	p.Leu466Pro	https://doi.org/10.1038/ki.2013.519	
+WT1	ENSG00000184937	ENSP00000413452.4	WT1-related steroid-resistant nephrotic syndrome	11	1406	A>G	p.His469Arg	https://doi.org/10.1038/ki.2013.519	There's an error in the image in the source; originally says p.4671Arg
+WT1	ENSG00000184937	ENSP00000413452.4	bilateral Wilms tumours	11	370	C>T	p.Gly124Ter	https://doi.org/10.1038/bjc.2015.13	
+WT1	ENSG00000184937	ENSP00000413452.4	bilateral Wilms tumours	11	1168	C>T	p.Arg390Ter	https://doi.org/10.1038/bjc.2015.13	
+WT1	ENSG00000184937	ENSP00000413452.4	bilateral Wilms tumours	11	1186	G>A	p.Asp396Asn	https://doi.org/10.1038/bjc.2015.13	
+WT1	ENSG00000184937	ENSP00000413452.4	bilateral Wilms tumours	11	938	C>A	p.Ser313Ter	https://doi.org/10.1038/bjc.2015.13	
+WT1	ENSG00000184937	ENSP00000413452.4	bilateral Wilms tumours	11	818	C>G	p.Tyr271Ter	https://doi.org/10.1038/bjc.2015.13	
+WT1	ENSG00000184937	ENSP00000413452.4	bilateral Wilms tumours	11	1180	C>T	p.Arg394Trp	https://doi.org/10.1038/bjc.2015.13	
+WT1	ENSG00000184937	ENSP00000413452.4	bilateral Wilms tumours	11	1084	C>T	p.Arg362Ter	https://doi.org/10.1038/bjc.2015.13	
+WT1	ENSG00000184937	ENSP00000413452.4	bilateral Wilms tumours	11	714	G>A	p.Trp238Ter	https://doi.org/10.1038/bjc.2015.13	
+WT1	ENSG00000184937	ENSP00000413452.4	unilateral Wilms tumours	11	144	C>A	p.Tyr48Ter	https://doi.org/10.1038/bjc.2015.13	
+WT1	ENSG00000184937	ENSP00000413452.4	unilateral Wilms tumours	11	1604	G>A	p.Cys355Tyr	https://doi.org/10.1038/bjc.2015.13	
+WT1	ENSG00000184937	ENSP00000413452.4	unilateral Wilms tumours	11	549	C>T	p.Gln184Ter	https://doi.org/10.1038/bjc.2015.13	
+WT1	ENSG00000184937	ENSP00000413452.4	unilateral Wilms tumours	11	1021	C>T	p.Gln341Ter	https://doi.org/10.1038/bjc.2015.13	
+WT1	ENSG00000184937	ENSP00000413452.4	unilateral Wilms tumours	11	1084	C>T	p.Arg362Ter	https://doi.org/10.1038/bjc.2015.13	
+WT1	ENSG00000184937	ENSP00000413452.4	unilateral Wilms tumours; renal failure	11	1730	A>G	p.Ter450Trp	https://doi.org/10.1038/bjc.2015.13	
+WT1	ENSG00000184937	ENSP00000413452.4	genitourinary malformation	11	328	C>A	p.Tyr109Ter	https://doi.org/10.1038/bjc.2015.13	
+WT1	ENSG00000184937	ENSP00000413452.4	Wilms tumours	11	1114	A>T	p.Arg372Ter	https://doi.org/10.1016/j.jpeds.2012.12.080	
+WT1	ENSG00000184937	ENSP00000413452.4	Wilms tumours	11	1120	C>T	p.Gln374Ter	https://doi.org/10.1016/j.jpeds.2012.12.080	
+WT1	ENSG00000184937	ENSP00000413452.4	Wilms tumours	11	1059	C>G	p.Tyr353Ter	https://doi.org/10.1016/j.jpeds.2012.12.080	
+WT1	ENSG00000184937	ENSP00000413452.4	Wilms tumours	11	541	C>T	p.Pro181Ser	https://doi.org/10.1016/j.jpeds.2012.12.080	
+WT1	ENSG00000184937	ENSP00000413452.4	Wilms tumours	11	1119	C>G	p.His373Gln	https://doi.org/10.1016/j.jpeds.2012.12.080	
+WT1	ENSG00000184937	ENSP00000413452.4	Wilms tumours	11	1180	C>T	p.Arg394Trp	https://doi.org/10.1016/j.jpeds.2012.12.080	
+WT1	ENSG00000184937	ENSP00000413452.4	Wilms tumours	11	1186	G>A	p.Asp396Asn	https://doi.org/10.1016/j.jpeds.2012.12.080	
+WT1	ENSG00000184937	ENSP00000413452.4	Wilms tumours	11	713	G>A	p.Trp238Ter	https://doi.org/10.1016/j.jpeds.2012.12.080	
+WT1	ENSG00000184937	ENSP00000413452.4	Wilms tumours	11	846	C>A	p.Cys282Ter	https://doi.org/10.1016/j.jpeds.2012.12.080	
+WT1	ENSG00000184937	ENSP00000413452.4	Wilms tumours	11	883	A>T	p.Arg295Ter	https://doi.org/10.1016/j.jpeds.2012.12.080	
+WT1	ENSG00000184937	ENSP00000413452.4	Wilms tumours	11	901	C>T	p.Arg301Ter	https://doi.org/10.1016/j.jpeds.2012.12.080	
+WT1	ENSG00000184937	ENSP00000413452.4	Wilms tumours	11	1021	C>T	p.Gln431Ter	https://doi.org/10.1016/j.jpeds.2012.12.080	
+WT1	ENSG00000184937	ENSP00000413452.4	Wilms tumours	11	461	T>C	p.Phe154Ser	https://doi.org/10.1002/ajmg.a.30015	
+WT1	ENSG00000184937	ENSP00000413452.4	Wilms tumours	11	541	C>T	p.Pro181Ser	https://doi.org/10.1002/ajmg.a.30015	
+WT1	ENSG00000184937	ENSP00000413452.4	Wilms tumours	11	668	G>A	p.Ser223Asn	https://doi.org/10.1002/ajmg.a.30015	
+WT1	ENSG00000184937	ENSP00000413452.4	Wilms tumours	11	758	G>C	p.Gly253Ala	https://doi.org/10.1002/ajmg.a.30015	
+WT1	ENSG00000184937	ENSP00000413452.4	Wilms tumours	11	1063	T>G	p.Cys355Gly	https://doi.org/10.1002/ajmg.a.30015	
+WT1	ENSG00000184937	ENSP00000413452.4	Wilms tumours	11	1064	G>A	p.Cys355Tyr	https://doi.org/10.1002/ajmg.a.30015	
+WT1	ENSG00000184937	ENSP00000413452.4	Wilms tumours	11	1096	C>T	p.Arg366Cys	https://doi.org/10.1002/ajmg.a.30015	
+WT1	ENSG00000184937	ENSP00000413452.4	Wilms tumours	11	1097	G>A	p.Arg366His	https://doi.org/10.1002/ajmg.a.30015	
+WT1	ENSG00000184937	ENSP00000413452.4	Wilms tumours	11	1119	C>G	p.His373Gln	https://doi.org/10.1002/ajmg.a.30015	
+WT1	ENSG00000184937	ENSP00000413452.4	Wilms tumours	11	1153	T>C	p.Cys385Arg	https://doi.org/10.1002/ajmg.a.30015	
+WT1	ENSG00000184937	ENSP00000413452.4	Wilms tumours	11	1163	G>A	p.Cys388Tyr	https://doi.org/10.1002/ajmg.a.30015	
+WT1	ENSG00000184937	ENSP00000413452.4	Wilms tumours	11	1180	C>T	p.Arg394Trp	https://doi.org/10.1002/ajmg.a.30015	
+WT1	ENSG00000184937	ENSP00000413452.4	Wilms tumours	11	1181	G>A	p.Arg394Gln	https://doi.org/10.1002/ajmg.a.30015	
+WT1	ENSG00000184937	ENSP00000413452.4	Wilms tumours	11	1186	G>A	p.Asp396Asn	https://doi.org/10.1002/ajmg.a.30015	
+WT1	ENSG00000184937	ENSP00000413452.4	Wilms tumours	11	1193	T>C	p.Lys398Pro	https://doi.org/10.1002/ajmg.a.30015	
+WT1	ENSG00000184937	ENSP00000413452.4	Wilms tumours	11	494	C>A	p.Ser165Ter	https://doi.org/10.1002/ajmg.a.30015	
+WT1	ENSG00000184937	ENSP00000413452.4	Wilms tumours	11	553	C>T	p.Gln185Ter	https://doi.org/10.1002/ajmg.a.30015	
+WT1	ENSG00000184937	ENSP00000413452.4	Wilms tumours	11	663	C>G	p.Tyr221Ter	https://doi.org/10.1002/ajmg.a.30015	
+WT1	ENSG00000184937	ENSP00000413452.4	Wilms tumours	11	714	G>A	p.Trp238Ter	https://doi.org/10.1002/ajmg.a.30015	
+ZIC2	ENSG00000043355	ENSP00000365514.3	holoprosencephaly	13	107	A>C	p.Gln36Pro	DOI: 10.1002/humu.20982	Nucleotide # based on: NM_007129.2
+ZIC2	ENSG00000043355	ENSP00000365514.3	holoprosencephaly	13	109	G>A	p.Asp37Asn	DOI: 10.1002/humu.20982	Nucleotide # based on: NM_007129.2
+ZIC2	ENSG00000043355	ENSP00000365514.3	holoprosencephaly	13	136	C>T	p.Gln46Ter	DOI: 10.1002/humu.20982	Nucleotide # based on: NM_007129.2
+ZIC2	ENSG00000043355	ENSP00000365514.3	holoprosencephaly	13	172	G>T	p.Gly58Ter	DOI: 10.1002/humu.20982	Nucleotide # based on: NM_007129.2
+ZIC2	ENSG00000043355	ENSP00000365514.3	holoprosencephaly	13	217	C>T	p.Gln73Ter	DOI: 10.1002/humu.20982	Nucleotide # based on: NM_007129.2
+ZIC2	ENSG00000043355	ENSP00000365514.3	holoprosencephaly	13	382	G>A	p.Asp128Asn	DOI: 10.1002/humu.20982	Nucleotide # based on: NM_007129.2
+ZIC2	ENSG00000043355	ENSP00000365514.3	holoprosencephaly	13	490	G>T	p.Glu164Ter	DOI: 10.1002/humu.20982	Nucleotide # based on: NM_007129.2
+ZIC2	ENSG00000043355	ENSP00000365514.3	holoprosencephaly	13	582	C>A	p.Tyr194Ter	DOI: 10.1002/humu.20982	Nucleotide # based on: NM_007129.2
+ZIC2	ENSG00000043355	ENSP00000365514.3	holoprosencephaly	13	748	C>T	p.Gln250Ter	DOI: 10.1002/humu.20982	Nucleotide # based on: NM_007129.2
+ZIC2	ENSG00000043355	ENSP00000365514.3	holoprosencephaly	13	779	G>A	p.Trp260Ter	DOI: 10.1002/humu.20982	Nucleotide # based on: NM_007129.2
+ZIC2	ENSG00000043355	ENSP00000365514.3	holoprosencephaly	13	793	C>T	p.Gln265Ter	DOI: 10.1002/humu.20982	Nucleotide # based on: NM_007129.2
+ZIC2	ENSG00000043355	ENSP00000365514.3	holoprosencephaly	13	815	G>A	p.Ser272Asn	DOI: 10.1002/humu.20982	Nucleotide # based on: NM_007129.2
+ZIC2	ENSG00000043355	ENSP00000365514.3	holoprosencephaly	13	857	A>T	p.His286Leu	DOI: 10.1002/humu.20982	Nucleotide # based on: NM_007129.2
+ZIC2	ENSG00000043355	ENSP00000365514.3	holoprosencephaly	13	856	C>T	p.His286Tyr	DOI: 10.1002/humu.20982	Nucleotide # based on: NM_007129.2
+ZIC2	ENSG00000043355	ENSP00000365514.3	holoprosencephaly	13	871	C>T	p.His291Tyr	DOI: 10.1002/humu.20982	Nucleotide # based on: NM_007129.2
+ZIC2	ENSG00000043355	ENSP00000365514.3	holoprosencephaly	13	910	T>A	p.Trp304Arg	DOI: 10.1002/humu.20982	Nucleotide # based on: NM_007129.2
+ZIC2	ENSG00000043355	ENSP00000365514.3	holoprosencephaly	13	912	G>A	p.Arg304Ter	DOI: 10.1002/humu.20982	Nucleotide # based on: NM_007129.2
+ZIC2	ENSG00000043355	ENSP00000365514.3	holoprosencephaly	13	928	G>T	p.Glu310Ter	DOI: 10.1002/humu.20982	Nucleotide # based on: NM_007129.2
+ZIC2	ENSG00000043355	ENSP00000365514.3	holoprosencephaly	13	973	C>A	p.Arg325Ser	DOI: 10.1002/humu.20982	Nucleotide # based on: NM_007129.2
+ZIC2	ENSG00000043355	ENSP00000365514.3	holoprosencephaly	13	974	G>T	p.Arg325Leu	DOI: 10.1002/humu.20982	Nucleotide # based on: NM_007129.2
+ZIC2	ENSG00000043355	ENSP00000365514.3	holoprosencephaly	13	979	C>T	p.His327Tyr	DOI: 10.1002/humu.20982	Nucleotide # based on: NM_007129.2
+ZIC2	ENSG00000043355	ENSP00000365514.3	holoprosencephaly	13	1004	G>T	p.Cys335Phe	DOI: 10.1002/humu.20982	Nucleotide # based on: NM_007129.2
+ZIC2	ENSG00000043355	ENSP00000365514.3	holoprosencephaly	13	1051	A>T	p.Lys351Ter	DOI: 10.1002/humu.20982	Nucleotide # based on: NM_007129.2
+ZIC2	ENSG00000043355	ENSP00000365514.3	holoprosencephaly	13	1090	C>T	p.Gln364Ter	DOI: 10.1002/humu.20982	Nucleotide # based on: NM_007129.2
+ZIC2	ENSG00000043355	ENSP00000365514.3	holoprosencephaly	13	1118	G>C	p.Arg373Pro	DOI: 10.1002/humu.20982	Nucleotide # based on: NM_007129.2
+ZIC2	ENSG00000043355	ENSP00000365514.3	holoprosencephaly	13	1206	C>G	p.Tyr402Ter	DOI: 10.1002/humu.20982	Nucleotide # based on: NM_007129.2
+ZIC2	ENSG00000043355	ENSP00000365514.3	holoprosencephaly	13	1204	T>A	p.Tyr402Asn	DOI: 10.1002/humu.20982	Nucleotide # based on: NM_007129.2
+ZIC2	ENSG00000043355	ENSP00000365514.3	holoprosencephaly	13	1208	C>A	p.Thr403Lys	DOI: 10.1002/humu.20982	Nucleotide # based on: NM_007129.2
+ZIC2	ENSG00000043355	ENSP00000365514.3	holoprosencephaly	13	1211	A>G	p.His404Arg	DOI: 10.1002/humu.20982	Nucleotide # based on: NM_007129.2
+ZIC2	ENSG00000043355	ENSP00000365514.3	holoprosencephaly	13	1225	C>T	p.Arg409Trp	DOI: 10.1002/humu.20982	Nucleotide # based on: NM_007129.2
+ZIC2	ENSG00000043355	ENSP00000365514.3	holoprosencephaly	13	1245	T>G	p.His415Gln	DOI: 10.1002/humu.20982	Nucleotide # based on: NM_007129.2
+ZNF687	ENSG00000143373	ENSP00000319829.5	Paget's disease of bone	1	1994	C>T	p.Pro665Leu	https://doi.org/10.1111/cge.13247	
+ZNF687	ENSG00000143373	ENSP00000319829.5	Paget's disease of bone	1	2350	C>G	p.Gln784Glu	https://doi.org/10.1111/cge.13247	
+SALL4	ENSG00000101115	ENSP00000217086.4	Okihiro syndrome	20	2288	C>A	p.Ser763Ter	https://doi.org/10.1093/hmg/11.23.2979	
+SALL4	ENSG00000101115	ENSP00000217086.4	"Thumb aplasia, radial hypoplasia, unilateral dystopic kidney, duane anomaly"	20	2593	C>T	p.Arg865Ter	http://dx.doi.org/10.1136/jmg.40.7.473	Nucleotide # based on: NM_020436
+SALL4	ENSG00000101115	ENSP00000217086.4	"Thimb aplasia with radial aplasia and hypoplastic thumb and radius. Bilaterial duane anomaly, and more."	20	523	A>T	p.Lys175Ter	http://dx.doi.org/10.1136/jmg.40.7.473	
+SALL4	ENSG00000101115	ENSP00000217086.4	"Unilateral Duane anomaly, bilateral thumb aplasia, hypoplastic radii, horseshow kidney, and more"	20	1849	C>T	p.Arg617Ter	http://dx.doi.org/10.1136/jmg.40.7.473	
+SALL4	ENSG00000101115	ENSP00000217086.4	Associated with Ventricular Septal Defect	20	686	C>T	p.Arg196Ter	https://doi.org/10.1016/j.ijcard.2009.05.067	
+SALL4	ENSG00000101115	ENSP00000217086.4	Associated with Ventricular Septal Defect	20	2389	A>T	p.Ser797Cys	https://doi.org/10.1016/j.ijcard.2009.05.067	
+ZNF423	ENSG00000102935	ENSP00000262383.2	Nephronophthisis-Related Ciliopathy	16	2738	C>T	p.Pro913Lys	https://doi.org/10.1016/j.cell.2012.06.028	Nucleotide # based on: NM_015069.2 
+ZNF423	ENSG00000102935	ENSP00000262383.2	Nephronophthisis-Related Ciliopathy	16	3929	C>T	p.His1277Tyr	https://doi.org/10.1016/j.cell.2012.06.028	Nucleotide # based on: NM_015069.2 
+ADNP	ENSG00000101126	ENSP00000379346.3	Intellectual disability and/or autism	20	49509321	G>A	p.Arg644Ter	doi: 10.1038/ng.2899	Nucleotide # based on: GRCh37
+FOXP3	ENSG00000049768	ENSP00000365380.4	"Immune dysregulation, Polyendocrinopathy, Enteropathy, X-linked (IPEX) syndrome"	X	1040	G>T	p.Arg347His	https://doi.org/10.1371/journal.pone.0078664	
+FOXP3	ENSG00000049768	ENSP00000365380.4	"Immune dysregulation, Polyendocrinopathy, Enteropathy, X-linked (IPEX) syndrome"	X	1150	G>A	p.Ala384Thr	https://doi.org/10.1371/journal.pone.0078664	
+FOXP3	ENSG00000049768	ENSP00000365380.4	"Immune dysregulation, Polyendocrinopathy, Enteropathy, X-linked (IPEX) syndrome"	X	725	T>C	p.Leu242Pro	https://doi.org/10.1371/journal.pone.0078664	
+FOXP3	ENSG00000049768	ENSP00000365380.4	"Immune dysregulation, Polyendocrinopathy, Enteropathy, X-linked (IPEX) syndrome"	X	1037	T>C	p.Ile346Thr	https://doi.org/10.1371/journal.pone.0078664	
+FOXP3	ENSG00000049768	ENSP00000365380.4	"Immune dysregulation, Polyendocrinopathy, Enteropathy, X-linked (IPEX) syndrome"	X	1078	C>T	p.Leu460Phe	https://doi.org/10.1371/journal.pone.0078664	
+GLI2	ENSG00000074047	ENSP00000390436.1	Congenital panhypopituitarism	2	3676	C>T	p.Arg1226Ter	doi: 10.1111/cen.13760	
+GLI2	ENSG00000074047	ENSP00000390436.1	Combined Pituitary Hormone Deficiency (CPHD)	2	120972038	C>T	p.Pro386Leu	doi: 10.1111/cen.13914	Nucleotide # based on: GRCh38
+GLI2	ENSG00000074047	ENSP00000390436.1	Combined Pituitary Hormone Deficiency (CPHD)	2	120984510	T>C	p.Tyr575His	doi: 10.1111/cen.13914	Nucleotide # based on: GRCh38
+GLI2	ENSG00000074047	ENSP00000390436.1	Combined Pituitary Hormone Deficiency (CPHD)	2	120984565	C>T	p.Ala593Val	doi: 10.1111/cen.13914	Nucleotide # based on: GRCh38
+ZEB1	ENSG00000148516	ENSP00000319248.9	Posterior Polymorphous Dystrophy	10	1	A>G	p.Met1Val	PubMed: PMC2788618	
+ZEB1	ENSG00000148516	ENSP00000319248.9	posterior polymorphous corneal dystrophy	10	2249	C>A	p.Ser750Ter	doi: 10.1167/iovs.13-11781	
+ZEB1	ENSG00000148516	ENSP00000319248.9	Fuchs' endothelial corneal dystrophy	10	1920	G>T	p.Gln640His	doi: 10.1167/iovs.13-11781	
+ZEB1	ENSG00000148516	ENSP00000319248.9	Posterior polymorphous corneal dystrophy 3	10	1100	C>A	p.Ser367Ter	doi: 10.1111/ahg.12090	
+SALL1	ENSG00000103449	ENSP00000251020.4	multiple congenital anomaly-mental retardation (MCA-MR) syndrome	16	3160	C>T	p.Arg1054Ter	doi: 10.1016/j.jpeds.2012.08.042	
+SALL1	ENSG00000103449	ENSP00000251020.4	Congenital anomalies of the kidney and urinary tract	16	220	G>A	p.Val74Ile	DOI:Êhttps://doi.org/10.1038/ki.2013.508	
+SALL1	ENSG00000103449	ENSP00000251020.4	Congenital anomalies of the kidney and urinary tract	16	548	C>G	p.Thr183Arg	DOI:Êhttps://doi.org/10.1038/ki.2013.508	
+SALL1	ENSG00000103449	ENSP00000251020.4	Congenital anomalies of the kidney and urinary tract	16	602	A>G	p.Gln201Arg	DOI:Êhttps://doi.org/10.1038/ki.2013.508	
+SALL1	ENSG00000103449	ENSP00000251020.4	Congenital anomalies of the kidney and urinary tract	16	703	G>A	p.Arg235Thr	DOI:Êhttps://doi.org/10.1038/ki.2013.508	
+SALL1	ENSG00000103449	ENSP00000251020.4	Congenital anomalies of the kidney and urinary tract	16	1738	A>G	p.Ile580Val	DOI:Êhttps://doi.org/10.1038/ki.2013.508	
+SALL1	ENSG00000103449	ENSP00000251020.4	Congenital anomalies of the kidney and urinary tract	16	2582	G>A	p.Ser861Ter	DOI:Êhttps://doi.org/10.1038/ki.2013.508	
+SALL1	ENSG00000103449	ENSP00000251020.4	Townes-Brocks syndrome	16	1519	C>T	p.Gln507Ter	https://doi.org/10.1002/ajmg.a.31699	
+SALL1	ENSG00000103449	ENSP00000251020.4	TownesÐBrocks Syndrome and duane anomaly	16	1112	C>G	p.Ser371Ter	https://doi.org/10.1002/ajmg.a.32738	Nucleotide # based on: NM_002968
+SALL1	ENSG00000103449	ENSP00000251020.4	Townes-Brocks syndrome	16	778	C>T	p.Gln260Ter	DOI: 10.1002/humu.9362	Nucleotide # based on: NM_002968.1
+SALL1	ENSG00000103449	ENSP00000251020.4	Townes-Brocks syndrome	16	940	A>T	p.Lys314Ter	DOI: 10.1002/humu.9362	Nucleotide # based on: NM_002968.1
+SALL1	ENSG00000103449	ENSP00000251020.4	Townes-Brocks syndrome	16	1543	G>T	p.Glu515Ter	DOI: 10.1002/humu.9362	Nucleotide # based on: NM_002968.1
+SALL1	ENSG00000103449	ENSP00000251020.4	Townes-Brocks syndrome	16	814	C>T	p.Gln272Ter	https://doi.org/10.1002/humu.9476	Nucleotide # based on: NM_002968.1
+SALL1	ENSG00000103449	ENSP00000251020.4	Townes-Brocks syndrome	16	901	C>T	p.Gln301Ter	https://doi.org/10.1002/humu.9476	Nucleotide # based on: NM_002968.1
+SALL1	ENSG00000103449	ENSP00000251020.4	Townes-Brocks syndrome	16	826	C>T	p.Arg267Ter	https://doi.org/10.1002/humu.9476	Nucleotide # based on: NM_002968.1
+SALL1	ENSG00000103449	ENSP00000251020.4	Townes-Brocks syndrome	16	940	A>T	p.Gln323Ter	https://doi.org/10.1002/humu.9476	Nucleotide # based on: NM_002968.1
+SALL1	ENSG00000103449	ENSP00000251020.4	Townes-Brocks syndrome	16	1115	"C>A,G"	p.Ser372Ter	https://doi.org/10.1002/humu.9476	Nucleotide # based on: NM_002968.1
+SALL1	ENSG00000103449	ENSP00000251020.4	Townes-Brocks syndrome	16	1228	G>T	p.Gly410Ter	https://doi.org/10.1002/humu.9476	Nucleotide # based on: NM_002968.1
+SALL1	ENSG00000103449	ENSP00000251020.4	Townes-Brocks syndrome	16	1509	C>A	p.Tyr503Ter	https://doi.org/10.1002/humu.9476	Nucleotide # based on: NM_002968.1
+SALL1	ENSG00000103449	ENSP00000251020.4	Townes-Brocks syndrome	16	2779	C>T	p.Gln927Ter	https://doi.org/10.1002/humu.9476	Nucleotide # based on: NM_002968.1
+ZFPM2	ENSG00000169946	ENSP00000384179.2	Conotruncal heart defects	8	2093	G>A	p.Arg698Ter	doi:Ê10.1007/s00438-017-1373-6	Nucleotide # based on: NM_012082.3
+ZFPM2	ENSG00000169946	ENSP00000384179.2	Conotruncal heart defects	8	2207	G>T	p.Arg736Ter	doi:Ê10.1007/s00438-017-1373-6	Nucleotide # based on: NM_012082.3
+ZFPM2	ENSG00000169946	ENSP00000384179.2	Conotruncal heart defects	8	3013	G>A	p.Glu1005Lys	doi:Ê10.1007/s00438-017-1373-6	Nucleotide # based on: NM_012082.3
+ZFPM2	ENSG00000169946	ENSP00000384179.2	congenital diaphragmatic hernia	8	89	A>G	p.Glu30Gly	doi: 10.1111/cge.12395.	Nucleotide # based on: NM_012082.3
+ZFPM2	ENSG00000169946	ENSP00000384179.2	congenital diaphragmatic hernia	8	172	G>T	p.Glu58Ter	doi: 10.1111/cge.12395.	Nucleotide # based on: NM_012082.3
+ZFPM2	ENSG00000169946	ENSP00000384179.2	congenital diaphragmatic hernia	8	292	G>A	p.Asp98Asn	doi: 10.1111/cge.12395.	Nucleotide # based on: NM_012082.3
+ZFPM2	ENSG00000169946	ENSP00000384179.2	congenital diaphragmatic hernia	8	679	A>G	p.Ile227Val	doi: 10.1111/cge.12395.	Nucleotide # based on: NM_012082.3
+ZFPM2	ENSG00000169946	ENSP00000384179.2	congenital diaphragmatic hernia	8	960	C>G	p.His320Gln	doi: 10.1111/cge.12395.	Nucleotide # based on: NM_012082.3
+ZFPM2	ENSG00000169946	ENSP00000384179.2	congenital diaphragmatic hernia	8	2501	A>G	p.Lys834Arg	doi: 10.1111/cge.12395.	Nucleotide # based on: NM_012082.3
+ZFPM2	ENSG00000169946	ENSP00000384179.2	congenital diaphragmatic hernia	8	2593	A>G	p.Lys865Glu	doi: 10.1111/cge.12395.	Nucleotide # based on: NM_012082.3
+ZFPM2	ENSG00000169946	ENSP00000384179.2	congenital diaphragmatic hernia	8	3086	A>T	p.Lys1029Ile	doi: 10.1111/cge.12395.	Nucleotide # based on: NM_012082.3
+ZNF513	ENSG00000163795	ENSP00000318373.6	Retinitis pigmentosa	2	1015	T>C	p.Cys339Arg	https://doi.org/10.1016/j.ajhg.2010.08.003	
+ZNF513	ENSG00000163795	ENSP00000318373.6	Retinitis pigmentosa	2	724	C>T	p.Arg242Cys	https://doi.org/10.3390/genes9010021	
+YY1	ENSG00000100811	ENSP00000262238.4	Insulinoma	14	100743807	C>G	p.Tyr372Arg	doi: 10.1038/ncomms3810	Nucleotide # based on: HG19
+ZIC3	ENSG00000156925	ENSP00000359638.3	Multiple Ventricular Septal defects	X	61	C>T	p.Gly17Cys	doi: 10.1136/hrt.2009.181685	
+ZIC3	ENSG00000156925	ENSP00000359638.3	Heterotaxy	X	463	G>T	p.Glu155Ter	doi:Ê10.1002/humu.22457	Nucleotide # based on: NM_003413.3
+ZIC3	ENSG00000156925	ENSP00000359638.3	"vertebral, anomalies, anal atresia, cardiovascular anomalies, tracheoesophageal fistula, renal/radial anomalies, limb defects"	X	952	C>A	p.His318Asn	doi:Ê10.1002/humu.22457	Nucleotide # based on: NM_003413.3
+ZIC3	ENSG00000156925	ENSP00000359638.3	Isolated congenital heart defects	X	1340	C>G	p.Ala447Gly	doi:Ê10.1002/humu.22457	Nucleotide # based on: NM_003413.3
+ZNF408	ENSG00000175213	ENSP00000309606.2	Familial exudative vitreoretinopathy	11	377	G>A	p.Ser126Asn	doi:Ê10.1073/pnas.1220864110	
+ZNF526	ENSG00000167625	ENSP00000301215.2	Non-syndromic intellectual disability	19	47421771	G>A	p.Arg459Gln	https://doi.org/10.1038/nature10423	Nucleotide # based on: HG18
+ZNF526	ENSG00000167625	ENSP00000301215.2	Non-syndromic intellectual disability	19	47422012	G>C	p.Gln539His	https://doi.org/10.1038/nature10423	Nucleotide # based on: HG18
+ZNF335	ENSG00000198026	ENSP00000325326.2	Association with autism	20	2522	C>T	p.Pro841Lys	doi:Ê10.1038/nature10945	Nucleotide # based on: NM_022095
