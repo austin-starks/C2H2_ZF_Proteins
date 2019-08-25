@@ -12,7 +12,9 @@ following names:
    output
    
 Databases:
- There should be a folder named databases present. Unzip the folder.
+ There should be a folder named databases present. Unzip the folder. Next, download 
+ variant_summary.txt from clinvar: ftp://ftp.ncbi.nlm.nih.gov/pub/clinvar/tab_delimited/.
+ Drag it into the folder and unzip it.
  
 HMMER:
  There should be a folder named HMMER present. Unzip the folder.
@@ -31,7 +33,6 @@ Chromosomes:
  This folder is used to store the chromosomes. Chromsomes can be downloaded from: 
  ftp://ftp.ensembl.org/pub/release-97/fasta/homo_sapiens/dna/
  
-
 Finally, run project.py as a script to get the main output files. There are other 
 functions in the file that can do a variety of things. Feel free to explore. If 
 you have any questions, please email me at as2779[at]cornell.edu.
