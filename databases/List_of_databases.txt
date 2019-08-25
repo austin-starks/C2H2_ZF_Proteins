@@ -1,0 +1,11 @@
+List of Databases:
+
+Clinical Genome Database (CGD) - downloaded
+ClinVar - downloaded
+Online Mendelian Inheritance in Man (OMIM) - downloaded
+Genetics Home Reference by the National Library of Medicine - access via web
+DisGenet - downloaded
+    contains gene-disease associations from UNIPROT, CGI, ClinGen, Genomics
+    England, CTD (human subset), PsyGeNET, and Orphanet.
+UniProt
+NHGRI GWAS Catalog 
