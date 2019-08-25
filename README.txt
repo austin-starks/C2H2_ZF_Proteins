@@ -22,7 +22,7 @@ HMMER:
 Analysis:
  This folder is used to compare the predicted change in DNA-binding specificity.
  To do this, visit zf.princeton.edu and click "Predict PWS". Type in the ZF protein
- sequence and click send. Click on the appropiate ZF domain and chaneg the prediction 
+ sequence and click send. Click on the appropiate ZF domain and change the prediction 
  model to be Polynomnial SVM. Click submit and download the PWM. Save the file in the 
  following format:
  
