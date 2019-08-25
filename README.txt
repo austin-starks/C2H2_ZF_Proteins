@@ -29,6 +29,8 @@ Analysis:
  GeneName_DomainNumber_o.txt - for an original gene.
  GeneName_DomainNumber_m.txt - for a mutated gene.
  
+ The files are already included in the folder; just unzip the folder.
+ 
 Chromosomes:
  This folder is used to store the chromosomes. Chromsomes can be downloaded from: 
  ftp://ftp.ensembl.org/pub/release-97/fasta/homo_sapiens/dna/
