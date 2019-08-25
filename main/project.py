@@ -30,7 +30,6 @@ import output
 import database
 import helper
 import count
-#### Temp ####
 
 
 def execute_program(HMMER=False, filter=True, score_threshold=False):
@@ -142,9 +141,6 @@ def mutated_gene_list(score_threshold=True):
     removal = genetics.verify_protein_sequence(ori_list)
     gene_list = genetics.remove_bad_diseases(ori_list, removal)
     genetics.gene_list_process_mutations(gene_list)
-    if score_threshold:
-        genetics.Disease.create_GRCh38_file(gene_list)
-        genetics.Disease.convert_to_GRCh37_from_file(gene_list)
     output.mutation_info(gene_list, ori_list, removal)
     output.chart_binding_specifity('pearsons')
     return gene_list
@@ -170,4 +166,5 @@ def population_variation_info():
 
 
 if __name__ == '__main__':
-    population_variation_info()
+    execute_program()
+    mutated_gene_list()
