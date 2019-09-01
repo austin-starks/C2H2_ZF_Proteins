@@ -4,7 +4,7 @@ To use this code, you must have the following requirements:
    Python 3+
    HMMER 2.3.2
 
-Download the code. In the same folder that contains "main", create a folder with the
+Download the code. In the same folder that contains "main", have a folder with the
 following names:
    analysis
    chromosomes
