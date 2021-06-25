@@ -1,4 +1,4 @@
-HOW TO USE:
+# HOW TO USE:
 
 To use this code, you must have the following requirements:
    Python 3+
@@ -11,15 +11,15 @@ following names:
    hmmer
    output
    
-Databases:
+### Databases:
  There should be a folder named databases present. Unzip the folder. Next, download 
  variant_summary.txt from clinvar: ftp://ftp.ncbi.nlm.nih.gov/pub/clinvar/tab_delimited/.
  Drag it into the folder and unzip it.
  
-HMMER:
+### HMMER:
  There should be a folder named HMMER present. Unzip the folder.
  
-Analysis:
+### Analysis:
  This folder is used to compare the predicted change in DNA-binding specificity.
  To do this, visit zf.princeton.edu and click "Predict PWS". Type in the ZF protein
  sequence and click send. Click on the appropiate ZF domain and change the prediction 
